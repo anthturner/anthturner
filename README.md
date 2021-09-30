@@ -4,6 +4,6 @@
 
 - 🐱‍💻 My **development languages** of choice are C#, Python, Javascript/Typescript, and some shell scripts. When it comes to **UX** languages, I love the Bootstrap methodology of HTML/CSS development and use it everywhere I can.
 
-- 👷‍♂️ I'm currently **working on** a major OSS project for enabling the safe execution of high-privilege operations in cloud platforms. That can be found at https://www.secopssteward.com (... code [here](https://github.com/secopssteward/))
+- 👷‍♂️ I'm currently **working on** a large MIT-licensed project for enabling the safe execution of high-privilege operations in cloud platforms. That can be found at https://www.secopssteward.com (... code [here](https://github.com/secopssteward/))
 
 - 💬 Want to strike up a conversation? Shoot me a message -- github@anthturner.com
